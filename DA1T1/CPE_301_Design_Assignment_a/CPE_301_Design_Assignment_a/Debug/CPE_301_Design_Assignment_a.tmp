@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\Debug\CPE_301_Design_Assignment_a.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>CPE_301_Design_Assignment_a.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>CPE_301_Design_Assignment_a.map</FILE>
+  <FILE>CPE_301_Design_Assignment_a.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <memory_parse_loop><FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\main.asm</FILE><LINE>31</LINE></memory_parse_loop>
+  <find_rem7><FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\main.asm</FILE><LINE>60</LINE></find_rem7>
+  <skip1><FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\main.asm</FILE><LINE>41</LINE></skip1>
+  <find_rem3><FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\main.asm</FILE><LINE>67</LINE></find_rem3>
+  <skip2><FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\main.asm</FILE><LINE>51</LINE></skip2>
+  <end><FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\main.asm</FILE><LINE>58</LINE></end>
+  <loop_start1><FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\main.asm</FILE><LINE>61</LINE></loop_start1>
+  <loop_start2><FILE>C:\Users\shobhit\Documents\Atmel Studio\7.0\CPE_301_Design_Assignment_a\CPE_301_Design_Assignment_a\main.asm</FILE><LINE>68</LINE></loop_start2>
+ </LABELS>
+</ASSEMBLER_INFO>
